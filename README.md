@@ -1,16 +1,52 @@
-## Hi there 👋
+Hi, I'm Yassine 👋
+Full-Stack Web Developer
 
-<!--
-**yassinekamoune47-ctrl/yassinekamoune47-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-Stack Web Developer passionate about building modern, responsive, and scalable web applications.
 
-Here are some ideas to get you started:
+I work across both Front-end and Back-end, with a focus on writing clean, maintainable, and efficient code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tech Stack
+Front-end
+
+HTML5
+
+CSS3
+
+JavaScript
+
+React
+
+Back-end
+
+Laravel
+
+SQL
+
+💻 What I Do
+
+🎨 Build modern and responsive user interfaces
+
+⚛️ Develop interactive applications with React
+
+🔧 Build robust back-end applications with Laravel
+
+🗄️ Work with SQL databases
+
+🔗 Develop complete Full-Stack web applications
+
+📌 Currently
+
+🔭 Improving my Full-Stack development skills
+
+🌱 Learning and exploring new web technologies
+
+💡 Building projects to strengthen my Front-end & Back-end experience
+
+🛠️ Languages & Tools
+HTML • CSS • JavaScript • React • Laravel • SQL
+
+📫 Let's Connect
+
+I'm always interested in learning, building, and collaborating on interesting web projects.
+
+Thanks for visiting my profile! 🚀
