@@ -1,52 +1,45 @@
-Hi, I'm Yassine 👋
-Full-Stack Web Developer
+<div align="center">
+👋 Hi, I'm Yassine Kamoune
+💻 Full-Stack Web Developer
 
-I'm a Full-Stack Web Developer passionate about building modern, responsive, and scalable web applications.
+Building modern, responsive & scalable web applications.
 
-I work across both Front-end and Back-end, with a focus on writing clean, maintainable, and efficient code.
+<br>
 
-🚀 Tech Stack
+</div>
+🚀 About Me
+
+I'm a Full-Stack Web Developer focused on creating modern and efficient web applications.
+
+🎨 Front-end development
+
+⚙️ Back-end development
+
+🗄️ Database design & SQL
+
+🔥 Building complete Full-Stack applications
+
+🌱 Continuously learning and improving
+
+🧰 Tech Stack
 Front-end
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,react" /> </p>
+Back-end & Database
+<p> <img src="https://skillicons.dev/icons?i=laravel,php,mysql" /> </p>
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yassinekamoune47-ctrl&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinekamoune47-ctrl&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </div>
+🔥 GitHub Streak
+<div align="center"> <img src="https://streak-stats.demolab.com?user=yassinekamoune47-ctrl&theme=tokyonight&hide_border=true" /> </div>
+🎯 Currently
+💻 Full-Stack Web Development
+⚛️ React
+🔥 Laravel
+🗄️ SQL
+🚀 Building & Learning
 
-HTML5
+<div align="center">
+🤝 Let's Build Something Great Together
 
-CSS3
+⭐ Feel free to explore my repositories and connect with me.
 
-JavaScript
-
-React
-
-Back-end
-
-Laravel
-
-SQL
-
-💻 What I Do
-
-🎨 Build modern and responsive user interfaces
-
-⚛️ Develop interactive applications with React
-
-🔧 Build robust back-end applications with Laravel
-
-🗄️ Work with SQL databases
-
-🔗 Develop complete Full-Stack web applications
-
-📌 Currently
-
-🔭 Improving my Full-Stack development skills
-
-🌱 Learning and exploring new web technologies
-
-💡 Building projects to strengthen my Front-end & Back-end experience
-
-🛠️ Languages & Tools
-HTML • CSS • JavaScript • React • Laravel • SQL
-
-📫 Let's Connect
-
-I'm always interested in learning, building, and collaborating on interesting web projects.
-
-Thanks for visiting my profile! 🚀
+</div>
