@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0e7490&height=220&section=header&text=YASSINE%20KAMOUNE&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descSize=20&descColor=22d3ee&descAlignY=58&animation=fadeIn" alt="Yassine Kamoun - Full-Stack Web Developer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0e7490&height=220&section=header&text=YASSINE%20KAMOUNE&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descSize=20&descColor=22d3ee&descAlignY=58&animation=fadeIn" alt="Yassine kamoun - Full-Stack Web Developer" width="100%" />
 
 <a href="https://github.com/yassinekamoune47-ctrl">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=620&height=40&lines=Building+modern+web+applications;Front-end+%26+Back-end+development;Responsive.+Scalable.+Clean." alt="Typing animation" />
