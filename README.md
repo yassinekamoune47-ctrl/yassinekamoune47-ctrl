@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0e7490&height=220&section=header&text=YASSINE%20KAMOUNE&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descSize=20&descColor=22d3ee&descAlignY=58&animation=fadeIn" alt="Yassine Kamoune - Full-Stack Web Developer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0e7490&height=220&section=header&text=YASSINE%20KAMOUNE&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descSize=20&descColor=22d3ee&descAlignY=58&animation=fadeIn" alt="Yassine Kamoun - Full-Stack Web Developer" width="100%" />
 
 <a href="https://github.com/yassinekamoune47-ctrl">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=620&height=40&lines=Building+modern+web+applications;Laravel+%2B+React;Responsive.+Scalable.+Clean." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=620&height=40&lines=Building+modern+web+applications;Front-end+%26+Back-end+development;Responsive.+Scalable.+Clean." alt="Typing animation" />
 </a>
 
 <p>
@@ -88,12 +88,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:22d3ee,100:0d1117&height=2&section=header" width="100%" alt="" />
 
-<h2 align="center">Featured Projects</h2>
+<h2 align="center">💼 Featured Projects</h2>
 
 <table align="center">
   <tr>
     <td colspan="2" valign="top">
-      <h3>GymFlow</h3>
+      <h3><a href="https://github.com/yassinekamoune47-ctrl/GymFlow">GymFlow</a></h3>
       <p>
         A gym management web application built with Laravel 12 and React 19.
         It includes a KPI dashboard, member and coach management, subscriptions,
@@ -104,12 +104,12 @@
         <img src="https://skillicons.dev/icons?i=php,laravel,react,tailwind,mysql,vite&theme=dark" height="36" alt="PHP, Laravel, React, Tailwind CSS, MySQL, Vite" /><br/>
         <sub>PHP · Laravel · React · Tailwind CSS · MySQL · Vite</sub>
       </p>
-      <a href="https://github.com/yassinekamoune47-ctrl/GymFlow"><img src="https://img.shields.io/badge/View%20Repository-0e7490?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a>
+      <a href="https://github.com/yassinekamoune47-ctrl/GymFlow"><b>View Repository →</b></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>PFE</h3>
+      <h3><a href="https://github.com/yassinekamoune47-ctrl/PFE">PFE</a></h3>
       <p>
         ElectroTech project. The repository contains a React + Vite front-end
         and an <code>electrotech-api</code> back-end folder.
@@ -118,10 +118,10 @@
         <img src="https://skillicons.dev/icons?i=react,vite,js&theme=dark" height="32" alt="React, Vite, JavaScript" /><br/>
         <sub>React · Vite · JavaScript</sub>
       </p>
-      <a href="https://github.com/yassinekamoune47-ctrl/PFE"><img src="https://img.shields.io/badge/View%20Repository-0e7490?style=flat-square&logo=github&logoColor=white" alt="View Repository" /></a>
+      <a href="https://github.com/yassinekamoune47-ctrl/PFE"><b>View Repository →</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>Gestion-de-Ecole--Ecole-YSNX</h3>
+      <h3><a href="https://github.com/yassinekamoune47-ctrl/Gestion-de-Ecole--Ecole-YSNX">Gestion-de-Ecole--Ecole-YSNX</a></h3>
       <p>
         École YSNX is a school management web application written in JavaScript.
         It manages teachers, students, subjects and grades.
@@ -130,12 +130,12 @@
         <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="32" alt="HTML, CSS, JavaScript" /><br/>
         <sub>HTML · CSS · JavaScript</sub>
       </p>
-      <a href="https://github.com/yassinekamoune47-ctrl/Gestion-de-Ecole--Ecole-YSNX"><img src="https://img.shields.io/badge/View%20Repository-0e7490?style=flat-square&logo=github&logoColor=white" alt="View Repository" /></a>
+      <a href="https://github.com/yassinekamoune47-ctrl/Gestion-de-Ecole--Ecole-YSNX"><b>View Repository →</b></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Expense-Tracker</h3>
+      <h3><a href="https://github.com/yassinekamoune47-ctrl/Expense-Tracker">Expense-Tracker</a></h3>
       <p>
         A simple, responsive web application to add and track expenses
         and calculate the total.
@@ -144,10 +144,10 @@
         <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="32" alt="HTML, CSS, JavaScript" /><br/>
         <sub>HTML · CSS · JavaScript</sub>
       </p>
-      <a href="https://github.com/yassinekamoune47-ctrl/Expense-Tracker"><img src="https://img.shields.io/badge/View%20Repository-0e7490?style=flat-square&logo=github&logoColor=white" alt="View Repository" /></a>
+      <a href="https://github.com/yassinekamoune47-ctrl/Expense-Tracker"><b>View Repository →</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>weather-app</h3>
+      <h3><a href="https://github.com/yassinekamoune47-ctrl/weather-app">weather-app</a></h3>
       <p>
         A simple weather application showing current conditions and the forecast
         for the coming days: temperature, humidity, wind speed and chance of rain.
@@ -156,60 +156,23 @@
         <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="32" alt="HTML, CSS, JavaScript" /><br/>
         <sub>HTML · CSS · JavaScript</sub>
       </p>
-      <a href="https://github.com/yassinekamoune47-ctrl/weather-app"><img src="https://img.shields.io/badge/View%20Repository-0e7490?style=flat-square&logo=github&logoColor=white" alt="View Repository" /></a>
+      <a href="https://github.com/yassinekamoune47-ctrl/weather-app"><b>View Repository →</b></a>
     </td>
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:22d3ee,100:0d1117&height=2&section=header" width="100%" alt="" />
-
-<h2 align="center">GitHub Statistics</h2>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yassinekamoune47-ctrl&show_icons=true&hide_border=false&bg_color=0d1117&border_color=1f2937&title_color=22d3ee&text_color=c9d1d9&icon_color=38bdf8&ring_color=22d3ee&border_radius=10" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinekamoune47-ctrl&layout=compact&hide_border=false&bg_color=0d1117&border_color=1f2937&title_color=22d3ee&text_color=c9d1d9&border_radius=10" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=yassinekamoune47-ctrl&theme=dark&background=0d1117&border=1f2937&ring=22d3ee&fire=38bdf8&currStreakLabel=22d3ee&currStreakNum=ffffff&sideLabels=c9d1d9&sideNums=ffffff&dates=8b949e&hide_border=false&border_radius=10" alt="Contribution streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yassinekamoune47-ctrl&bg_color=0d1117&color=22d3ee&line=22d3ee&point=ffffff&area=true&area_color=22d3ee&hide_border=true&radius=10" alt="Contribution activity" width="100%" />
-
-</div>
+<p align="center">
+  <sub><a href="https://github.com/yassinekamoune47-ctrl?tab=repositories">See all repositories on GitHub →</a></sub>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:22d3ee,100:0d1117&height=2&section=header" width="100%" alt="" />
 
-<h2 align="center">Current Focus</h2>
+<h2 align="center">Currently Exploring</h2>
 
-<table align="center">
-  <tr>
-    <td colspan="2" align="center" width="33%">
-      <b>Full-Stack Development</b><br/>
-      <sub>Improving across the entire stack.</sub>
-    </td>
-    <td colspan="2" align="center" width="33%">
-      <b>Real-World Applications</b><br/>
-      <sub>Building practical web applications.</sub>
-    </td>
-    <td colspan="2" align="center" width="33%">
-      <b>Modern Web Technologies</b><br/>
-      <sub>Learning new tools and best practices.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3" align="center">
-      <b>React</b><br/>
-      <sub>Improving my front-end skills.</sub>
-    </td>
-    <td colspan="3" align="center">
-      <b>Laravel & PHP</b><br/>
-      <sub>Improving my back-end skills.</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  Advanced React development &nbsp;·&nbsp; Laravel &amp; PHP &nbsp;·&nbsp; Full-Stack architecture<br/>
+  Database-driven applications &nbsp;·&nbsp; Modern web development
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:22d3ee,100:0d1117&height=2&section=header" width="100%" alt="" />
 
